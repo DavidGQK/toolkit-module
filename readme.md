@@ -4,4 +4,4 @@ A simple Go module
 
 ## Installation
 
-`go get -u github.com/davidgqk/toolkit/toolkit`
+`go get -u github.com/davidgqk/toolkit-module/toolkit`
